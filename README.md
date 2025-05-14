@@ -30,6 +30,6 @@ ABB RobotStudio AI Assistant
 - Led the team in creating the design document, developing the RobotStudio add-in, and crafting the prompts required for the assistant.
 - Developed in C#
 
-## Personal Hoobies
+## Personal Hobbies
 - Gaming; Favorites include Destiny 2 & Elden Ring
 - Reading; Favorites include Three Body Problem & The Name of The Wind
